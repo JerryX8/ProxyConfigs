@@ -18,6 +18,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,uc.edu
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
