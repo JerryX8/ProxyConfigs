@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # USER-AGENT: 8
 # TOTAL: 6647
+DOMAIN,api.themoviedb.org
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
