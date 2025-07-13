@@ -15,15 +15,15 @@ DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
 DOMAIN,cloud.oracle.com
 DOMAIN,cvws.icloud-content.com
-DOMAIN,developer.apple.com
-DOMAIN,login.microsoftonline.com
-DOMAIN,testflight.apple.com
+# DOMAIN,developer.apple.com
+# DOMAIN,login.microsoftonline.com
+# DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,uc.edu
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
-DOMAIN-SUFFIX,1-apple.com.tw
+# DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,10.tt
 DOMAIN-SUFFIX,1000giri.net
 DOMAIN-SUFFIX,100ke.org
@@ -401,7 +401,7 @@ DOMAIN-SUFFIX,aplusvpn.com
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,appadvice.com
 DOMAIN-SUFFIX,appdownloader.net
-DOMAIN-SUFFIX,apple-dns.net
+# DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
@@ -679,7 +679,7 @@ DOMAIN-SUFFIX,blinkx.com
 DOMAIN-SUFFIX,blinw.com
 DOMAIN-SUFFIX,blip.tv
 DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,blobstore.apple.com
+# DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blockcast.it
 DOMAIN-SUFFIX,blockcn.com
 DOMAIN-SUFFIX,blockedbyhk.com
@@ -3465,10 +3465,10 @@ DOMAIN-SUFFIX,mgoon.com
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mh4u.org
 DOMAIN-SUFFIX,michaelmarketl.com
-DOMAIN-SUFFIX,microsoft-falcon.io
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftapp.net
-DOMAIN-SUFFIX,microsofttranslator.com
+# DOMAIN-SUFFIX,microsoft-falcon.io
+# DOMAIN-SUFFIX,microsoft.com
+# DOMAIN-SUFFIX,microsoftapp.net
+# DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,microvpn.com
 DOMAIN-SUFFIX,middle-way.net
 DOMAIN-SUFFIX,mihk.hk
@@ -6656,5 +6656,5 @@ USER-AGENT,PayPal*
 USER-AGENT,Roam*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
-USER-AGENT,com.apple.trustd*
+# USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
