@@ -37,6 +37,11 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,vscode-cdn.net
