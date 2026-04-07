@@ -7,5 +7,7 @@
 # TOTAL: 3
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,intercom.io
